@@ -12,9 +12,9 @@ Backend server för affärslogiken i projektarbetet i kursen *"Webbsäkerhet: An
 ### 1. Klona projektet
 
 Kör följande kommando i terminalen:
-
+git@github.com:Rozabelay339/backend-webshop.git
 ```bash
-git clone https://github.com/angelika-friis/FWK24S-WAI-projektarbete-domain-service.git
+
 ```
 
 ### 2. Installera beroenden
